@@ -1,6 +1,6 @@
 Revision history for Perl extension Apache::Singleton.
 
-0.04
+0.04  Sun Dec 23 21:20:04 JST 2001
 	- Fixed docs
 	- pulled off Server subclass: it was completely broken
 
